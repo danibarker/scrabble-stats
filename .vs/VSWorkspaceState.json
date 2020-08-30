@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\json",
+    "\\src\\components",
+    "\\src\\lib",
+    "\\src\\router",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\lib\\API.js",
+  "PreviewInSolutionExplorer": false
+}
