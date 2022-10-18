@@ -10,6 +10,6 @@
     "\\src\\router",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\lib\\API.js",
+  "SelectedNode": "\\src\\components\\ScrabbleStats.vue",
   "PreviewInSolutionExplorer": false
 }
